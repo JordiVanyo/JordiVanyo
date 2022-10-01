@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JordiVanyo
-- 👀 I’m interested in Operating Systems and Software development
+- 👀 I’m interested in Operating Systems, Cybersecurity
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
